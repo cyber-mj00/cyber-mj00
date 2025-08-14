@@ -10,13 +10,14 @@
 - [大鸭鸭直播台](https://live.mj00.top)（forked from owncast/owncast）
 - [大鸭鸭PasteBin](https://bin.mj00.top)（forked from PrivateBin/PrivateBin）
 - [大鸭鸭临时邮箱](https://mail.mj00.top)（forked from denghongcai/forsaken-mail）
+- [大鸭鸭博客](https://cyber.mj00.top/blog)（forked from Dynalon/mdwiki）
 - 大鸭鸭 5.0 机器人（开发中）
 
 ## 大鸭鸭旗下比赛✨：
 
-- 🀄雀魂：鸭鸭/大鸭鸭杯（目前已举办五届）
-- 🀄雀魂：银狼杯（目前已举办两届）
-- 🀄雀魂：白露杯（计划举办）
+- 🀄雀魂：[鸭鸭/大鸭鸭杯](https://cyber.mj00.top/yaya.html)（目前已举办六届）
+- 🀄雀魂：[银狼杯](https://cyber.mj00.top/yinlang.html)（目前已举办两届）
+- 🀄雀魂：[白露杯](https://cyber.mj00.top/bailu.html)（目前已举办两届）
 
 ## 友情链接💁：
 
